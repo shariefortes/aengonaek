@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paejiesah.200iq.games/sitemap.xml
